@@ -1,4 +1,4 @@
-D213 Task 2: Advanced Data Analytics
+**Amazon Review Classification Using LSTM Neural Networks**
 
 This project employs an LSTM neural network to classify sentiment in Amazon reviews as positive or negative.
 
