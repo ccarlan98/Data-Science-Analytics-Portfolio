@@ -1,4 +1,4 @@
-**Hospital Readmission Analysis Using Exploratory Data Analysis**
+## Hospital Readmission Analysis Using Exploratory Data Analysis
 
 This folder investigates the relationship between pre-existing conditions and hospital readmissions through visual and statistical exploration.
 
