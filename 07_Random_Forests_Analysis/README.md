@@ -1,4 +1,4 @@
-**Hospital Readmission Prediction Using Random Forest Modeling**
+## Hospital Readmission Prediction Using Random Forest Modeling
 
 This project uses the Random Forest algorithm to predict hospital readmissions based on survey responses.
 
