@@ -1,4 +1,4 @@
-**Internet Service Preference Analysis Using SQL Data Integration**
+## Internet Service Preference Analysis Using SQL Data Integration
 
 This folder explores the process of acquiring and integrating data to investigate household characteristics influencing the preference for internet services.
 
