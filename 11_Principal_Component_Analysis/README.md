@@ -1,4 +1,4 @@
-**Dimensionality Reduction Using Principal Component Analysis**
+## Dimensionality Reduction Using Principal Component Analysis
 
 This project uses Principal Component Analysis (PCA) to reduce dimensionality and identify the most relevant variables in a healthcare dataset.
 
