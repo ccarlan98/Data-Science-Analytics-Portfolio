@@ -1,4 +1,4 @@
-D209 Task 1: Data Mining I
+**Hospital Readmission Prediction Using Naive Bayes Classification**
 
 Naive Bayes classification is applied to predict hospital readmissions based on medical conditions.
 
