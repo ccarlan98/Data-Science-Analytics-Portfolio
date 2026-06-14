@@ -1,4 +1,4 @@
-D208 Task 2: Predictive Modeling
+**Hospital Readmission Prediction Using Logistic Regression**
 
 Logistic regression is applied to predict hospital readmissions based on patients' health conditions.
 
