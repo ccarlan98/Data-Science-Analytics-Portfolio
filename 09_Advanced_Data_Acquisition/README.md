@@ -1,4 +1,4 @@
-**Healthcare Readmission and Cost Analysis Using SQL and Tableau**
+## Healthcare Readmission and Cost Analysis Using SQL and Tableau
 
 This project integrates advanced data acquisition techniques with reporting to analyze hospital readmissions and healthcare costs by geographic area.
 
