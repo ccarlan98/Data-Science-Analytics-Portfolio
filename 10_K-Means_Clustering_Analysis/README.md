@@ -1,4 +1,4 @@
-D212 Task 1: Data Mining II
+**Customer Segmentation Using K-Means Clustering**
 
 This project uses K-Means clustering to segment customers based on key characteristics to identify trends in service usage.
 
