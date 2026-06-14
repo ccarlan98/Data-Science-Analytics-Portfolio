@@ -1,4 +1,4 @@
-**Revenue Forecasting Using ARIMA Time Series Modeling**
+## Revenue Forecasting Using ARIMA Time Series Modeling
 
 This project uses ARIMA modeling to forecast monthly revenue based on historical data.
 
