@@ -1,4 +1,4 @@
-## Data Science and Analytics Professional Portfolio
+## Data Science and Analytics Portfolio
 
 This portfolio showcases a collection of analytics, statistical modeling, machine learning, and business intelligence projects demonstrating end-to-end data workflows, from acquisition and preparation through modeling, visualization, and decision support. Each folder represents a key step or methodology, including:
 
