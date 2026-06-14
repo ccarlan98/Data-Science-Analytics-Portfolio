@@ -1,4 +1,4 @@
-**Healthcare Analytics Dashboard Development Using Tableau**
+## Healthcare Analytics Dashboard Development Using Tableau
 
 This project demonstrates the creation of an interactive Tableau dashboard to analyze healthcare data.
 
