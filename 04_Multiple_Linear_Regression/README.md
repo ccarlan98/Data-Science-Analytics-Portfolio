@@ -1,4 +1,4 @@
-D208 Task 1: Predictive Modeling
+**Healthcare Cost Prediction Using Multiple Linear Regression**
 
 This project uses multiple linear regression to predict hospital charges based on patient demographics and treatment details.
 
