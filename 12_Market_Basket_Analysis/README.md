@@ -1,4 +1,4 @@
-**Prescription Pattern Discovery Using Market Basket Analysis**
+## Prescription Pattern Discovery Using Market Basket Analysis
 
 This analysis applies Market Basket techniques to identify frequently co-prescribed drugs.
 
