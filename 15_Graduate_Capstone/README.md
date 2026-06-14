@@ -1,4 +1,4 @@
-D214: Graduate Capstone
+**NFL Rushing Touchdown Prediction Using Random Forest Regression**
 
 This project explores the use of Random Forest Regression to predict NFL rushing touchdowns based on various player statistics.
 
