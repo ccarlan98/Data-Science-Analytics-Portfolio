@@ -14,4 +14,17 @@ This portfolio showcases a collection of analytics, statistical modeling, machin
 
   7. Reporting & Communication: Comprehensive reporting to translate technical results into actionable insights.
 
-This portfolio is designed to demonstrate technical proficiency, analytical thinking, and hands-on expertise in solving real-world problems using Python, R, SQL, and Tableau.
+This portfolio is designed to demonstrate technical proficiency, analytical thinking, and hands-on expertise in solving real-world problems using Python, R, SQL, Tableau, Power BI, and modern data platforms.
+
+## Professional Experience Highlights
+
+While proprietary work cannot be publicly shared, my professional experience includes:
+
+- SQL development and optimization in AWS Redshift and Databricks
+- Power BI and Tableau dashboard development
+- Enterprise reporting and KPI design
+- Data validation and quality assurance
+- Financial, operational, and research analytics
+- ETL validation and reporting pipeline support
+
+Professional experience spans higher education, research administration, and corporate finance/operations environments.
